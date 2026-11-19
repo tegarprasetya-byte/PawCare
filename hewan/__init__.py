@@ -1,0 +1,1 @@
+"""Package PawHaven: model, penyimpanan file, logika, dan tampilan GUI."""

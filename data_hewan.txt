@@ -1,0 +1,5 @@
+A001|Mochi|Kucing|2|Betina|Sehat|Kucing manis, jinak, suka bermain bola|Tersedia
+A002|Bruno|Anjing|3|Jantan|Sehat|Anjing aktif, sudah terlatih duduk dan salam|Tersedia
+A003|Luna|Kucing|1|Betina|Butuh vaksin|Anak kucing pemalu, cocok untuk rumah tenang|Tersedia
+A004|Snowy|Kelinci|1|Jantan|Sehat|Kelinci putih, suka makan wortel|Diproses
+A005|Rocky|Anjing|5|Jantan|Luka ringan di kaki|Anjing setia, butuh perawatan luka ringan|Tersedia
